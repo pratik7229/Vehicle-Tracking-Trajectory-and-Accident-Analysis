@@ -1,0 +1,5 @@
+# Core Computer Vision & AI
+ultralytics             # YOLO detection (v8/v9/v11/v26)
+deep-sort-realtime      # Deep SORT implementation
+scipy                   # Spatial distance and linear assignment
+pyyaml                  # Configuration file parsing
