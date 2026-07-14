@@ -78,6 +78,6 @@ if __name__ == "__main__":
     path4 = "/Users/pratik/Documents/Projects/kaggleCompetation_data/Accident@CVPR/videos/-AztVDZ6cEE_00.mp4"
     path5 = "/Users/pratik/Documents/Projects/kaggleCompetation_data/Accident@CVPR/videos/0ThWw_efieo_01.mp4"
     
-    main("/Users/pratik/Documents/Projects/kaggleCompetation_data/Accident@CVPR/sim_dataset/videos/head-on/Town03_head-on_clear_01.mp4",  track_type="byte")
+    #main("/Users/pratik/Documents/Projects/kaggleCompetation_data/Accident@CVPR/sim_dataset/videos/head-on/Town03_head-on_clear_01.mp4",  track_type="byte")
     #main(path)
-    #main(path4, track_type="byte")
+    main(path3, track_type="byte")
